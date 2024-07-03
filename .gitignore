@@ -1,0 +1,6 @@
+# Ignore the First Game directory
+First Game/
+
+# Ignore all .dmg and .exe files
+*.dmg
+*.exe
